@@ -2,9 +2,9 @@
   "name": "crud-operation-with-jsonfile",
   "version": "1.0.0",
   "description": "A tutorial project on how to create CRUD operations with JSON files",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "Uma Victor",
   "license": "ISC",
